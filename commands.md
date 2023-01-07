@@ -22,7 +22,23 @@ Add file
 
 Add commits
 
-`git commit -m "Commit message"`
+> `git commit -m "Commit message"`
 
-`git commit -a`
+> `git commit -a`
+
+Add remote origin
+
+> `git remote add origin <path/to/repo>`
+
+> `git remote -V`
+
+Push to branch
+
+> `git push origin master`
+
+> `git push origin :<branchname>`
+
+> `git push --all origin`
+
+
 
