@@ -42,6 +42,9 @@ Remove Remote Origin
 
 > `git remote rm origin`
 
+Create new brach
+
+> `git checkout -b ＜new-branch＞`
 
 Push to branch
 
@@ -51,4 +54,6 @@ Push to branch
 
 > `git push --all origin`
 
+Push to remote branch
 
+> `git push <remote-name> <branch-name>`
